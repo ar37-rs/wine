@@ -1,1 +1,1 @@
-# wine smaple patches for wine termux.
+# wine sample patches for wine termux.
